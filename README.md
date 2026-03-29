@@ -45,7 +45,9 @@ To improve generalization, the following techniques were applied:
 
 - Random flipping  
 - Rotation  
-
+https://patchcamelyon.grand-challenge.org/
+https://github.com/basveeling/pcam
+https://www.kaggle.com/datasets/andrewmvd/metastatic-tissue-classification-patchcamelyon
 ---
 
 ## 🧠 CNN Model Description
